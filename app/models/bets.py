@@ -1,0 +1,1 @@
+#bet_id(Pr, int) user_id(тут зв'язок з юзером) game_id(Так само з Грою ) amount(int) payout(Виграш)(int) date(datetime.utc)

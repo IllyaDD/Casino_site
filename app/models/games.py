@@ -1,0 +1,1 @@
+# Поля game_id(PR, int) name(str) категорія(str) provider(розробник гри)(str) is active(bool)
